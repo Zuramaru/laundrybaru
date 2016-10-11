@@ -1,0 +1,2 @@
+# laundrybaru
+ini aplikasi laundry
